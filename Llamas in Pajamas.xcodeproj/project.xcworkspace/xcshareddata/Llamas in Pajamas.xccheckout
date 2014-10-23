@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F7CF1C54-F7F0-4CAF-89C8-2B296733E2D3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Llamas in Pajamas</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>10F9352F9C5752B9F239631E3F00718ECEA5DB40</key>
+		<string>github.com:curriedav/Llamas-in-Pajamas-Assignment.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Llamas in Pajamas.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>10F9352F9C5752B9F239631E3F00718ECEA5DB40</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:curriedav/Llamas-in-Pajamas-Assignment.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>10F9352F9C5752B9F239631E3F00718ECEA5DB40</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>10F9352F9C5752B9F239631E3F00718ECEA5DB40</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Llamas-in-Pajamas-Assignment</string>
+		</dict>
+	</array>
+</dict>
+</plist>
