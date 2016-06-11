@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "10F9352F9C5752B9F239631E3F00718ECEA5DB40",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EB11F4423377D91C74C3F597EA9ED734C0CE05EB" : 0,
+    "10F9352F9C5752B9F239631E3F00718ECEA5DB40" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1A1CE5DA-730E-487E-9391-BA9CF5A15C2F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EB11F4423377D91C74C3F597EA9ED734C0CE05EB" : "",
+    "10F9352F9C5752B9F239631E3F00718ECEA5DB40" : "Llamas-in-Pajamas-Assignment\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Llamas in Pajamas",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Llamas in Pajamas.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ezefib\/Llamas-in-Pajamas-Assignment.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10F9352F9C5752B9F239631E3F00718ECEA5DB40"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ezefib\/ThinkfulProjects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB11F4423377D91C74C3F597EA9ED734C0CE05EB"
+    }
+  ]
+}
