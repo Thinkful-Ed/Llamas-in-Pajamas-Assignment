@@ -92,7 +92,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         let randomY = CGFloat(arc4random() % UInt32(playRect.height))
         pajama.position = CGPointMake(randomX, randomY)
         addChild(pajama)
-        pajamaCount++
+        pajamaCount += 1
     }
     
     func addLlama() {
@@ -152,7 +152,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         pajama.removeFromParent()
         
         // update count of pajamas remaining
-        pajamaCount--
+        pajamaCount -= 1
         
         print("Llama now has \(llama.points) points and \(pajamaCount) pajamas remaining")
         
